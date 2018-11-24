@@ -62,6 +62,8 @@ Permite recabar datos de la cantidad de guías por ciudad y guías/km, las rutas
 - Registro
 - La lista de los guías está ordenada por cercanía al usuario
 
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/trozo_de_mapa.png" width="500" alt="Pin">
+
 ## Funcionalidades Umbrella Tours: Guide
 - Relleno de datos de tu ruta (asistentes y cupo máx, lugares visitados, idiomas, tipo de ruta, horario)
 - Número de asistentes a la ruta

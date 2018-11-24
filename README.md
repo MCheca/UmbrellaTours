@@ -1,10 +1,10 @@
 # Umbrella Tours
 
 Aplicación destinada a facilitar la labor de los guías que se dedican a los denominados "Free Tours"
-
+<div style="text-align:center">
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/LOGO.png" width="500" alt="Logo">
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PIN.png" width="100" alt="Pin">
-
+</div>
 ## Integrantes:
 - Marcos Checa Pérez,
 - Nuria Carmona Guijosa

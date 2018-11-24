@@ -2,6 +2,8 @@
 
 Aplicación destinada a facilitar la labor de los guías que se dedican a los denominados "Free Tours"
 
+![Logo Umbrella Tours](https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gráficos/PIN.png)
+
 
 ## Integrantes:
 - Marcos Checa Pérez,

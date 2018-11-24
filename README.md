@@ -23,7 +23,6 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 - Permite saber los guías turísticos de la zona
 - Permite filtrar las rutas por lugares de interés
 - Aún que la competencia intente imitarnos en cuanto a la app en un futuro, nosotros tendremos mejores condiciones que las actuales, ya que siempre pensamos en mejorar la calidad de la app para los guías y la experiencia de usuario para los turistas.Input Box
-- Enter text for prefix and/or suffix insertion here.
 
 <div style="text-align:center">
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PIN.png" width="100" alt="Pin">

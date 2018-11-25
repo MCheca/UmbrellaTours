@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple Markers</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div id="map"></div>
+    <script>
+  		console.log("start map");
+      function initMap() {
+
+        //37.9847012!4d-0.6808224
+        //37.9779437!4d-0.676692
+        var myLatLng1 = {lat: 37.9772853, lng: -0.6748958};//rojo
+        var myLatLng2 = {lat: 37.9779594, lng: -0.6800852};//verde
+        var myLatLng3 = {lat: 37.9779437, lng: -0.676692};//verde
+        var myLatLng4 = {lat: 37.9849, lng: -0.6810};
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 15,
+          center: myLatLng1
+        });
+
+
+          // Define Marker properties
+      var imagerojo = new google.maps.MarkerImage('https://i.imgur.com/TxYnBMn.png',
+          // This marker is 129 pixels wide by 42 pixels tall.
+          new google.maps.Size(129, 42),
+          // The origin for this image is 0,0.
+          new google.maps.Point(0,0),
+          // The anchor for this image is the base of the flagpole at 18,42.
+          new google.maps.Point(18, 42)
+      );
+    var imageverde = new google.maps.MarkerImage('https://i.imgur.com/H1zQNkE.png',
+          // This marker is 129 pixels wide by 42 pixels tall.
+          new google.maps.Size(129, 42),
+          // The origin for this image is 0,0.
+          new google.maps.Point(0,0),
+          // The anchor for this image is the base of the flagpole at 18,42.
+          new google.maps.Point(18, 42)
+      );
+        var imageamarillo = new google.maps.MarkerImage('https://i.imgur.com/PmxZLw4.png',
+          // This marker is 129 pixels wide by 42 pixels tall.
+          new google.maps.Size(129, 42),
+          // The origin for this image is 0,0.
+          new google.maps.Point(0,0),
+          // The anchor for this image is the base of the flagpole at 18,42.
+          new google.maps.Point(18, 42)
+      );
+
+              
+        var marker1 = new google.maps.Marker({
+          position: myLatLng1,
+          map: map,
+          icon: imageverde,	//icon: imageamarillo,//color
+          title: 'Hello World!'
+        });
+
+         var marker2 = new google.maps.Marker({
+          position: myLatLng2,
+          map: map,
+          icon: imageverde,
+          title: 'Hello World!'
+        });
+
+         var marker3 = new google.maps.Marker({
+          position: myLatLng3,
+          map: map,
+          icon: imagerojo,
+          title: 'Hello World!'
+        });
+
+         var marker4 = new google.maps.Marker({
+          position: myLatLng4,
+          map: map,
+          icon: imageverde,//color
+          title: 'Hello World!'
+        });
+
+
+        google.maps.event.addListener(marker, 'click', function() {
+            //infowindow1.open(map, marker1);
+            //s-Info
+            console.log("pinchado aki");
+            //Brodocument.getElementById("mapScreen").getElementById("s-Info").style.display = "block";
+            //document.getElementById("s-Info").style.display = "block";
+            document.getElementById("rtr-s-Text_1_AAA_0").innerHTML = "CIPOTE";
+            
+            //.hidden
+        });
+        
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyATmoJOG68xNhaNCrPhaHc3x4lqRL1rSUI&callback=initMap">
+    </script>
+  </body>
+</html>
+

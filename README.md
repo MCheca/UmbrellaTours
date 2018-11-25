@@ -4,7 +4,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 <span style="display:block;text-align:center">
   
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/LOGO.png" width="500" alt="Logo">
-//C:\Users\Yupipi93\Google Drive\Proyecto_ Umbrella\GITHUB\UmbrellaTours\Recursos gráficos\PNG
+/*ghcgvjvgj*/
 
 </span>
 

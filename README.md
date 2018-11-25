@@ -15,7 +15,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 - Sergio Conejero Vicente
 - Adrián Herrero Bernabéu
 
-<img src=".../PNG/MULTITEC.png" width="500" alt="Logo">
+<img src=".../PNG/multitecito.png" width="500" alt="Logo">
 
 ## Idea
 - Una aplicación que permite a los guías turísticos (particulares) atraer clientes, el cliente encontrará al guía mediante un punto en el mapa, y podrá ver si el guía está en ruta o en búsqueda de clientes.

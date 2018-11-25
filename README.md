@@ -15,7 +15,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 - Sergio Conejero Vicente
 - Adrián Herrero Bernabéu
 
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/multitecito.png" width="500" alt="Logo">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/LOGO/multitecito.png" width="500" alt="Logo">
 
 ## Idea
 - Una aplicación que permite a los guías turísticos (particulares) atraer clientes, el cliente encontrará al guía mediante un punto en el mapa, y podrá ver si el guía está en ruta o en búsqueda de clientes.

@@ -17,7 +17,7 @@ https://www.youtube.com/embed/O8CcFV14y7c
 [![Watch the video](https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/final.png)](https://www.youtube.com/embed/O8CcFV14y7c)
 
 
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/Cartel/multitecUA.png" width="500" alt="Logo">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/LOGO.png" width="500" alt="Logo">
 
 
 </span>

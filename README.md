@@ -14,7 +14,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 - Daniel Bravo García
 - Sergio Conejero Vicente
 - Adrián Herrero Bernabéu
-
+ PENE
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/LOGO/multitecito.png" width="500" alt="Logo">
 
 ## Idea

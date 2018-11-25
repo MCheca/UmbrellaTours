@@ -4,7 +4,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 <span style="display:block;text-align:center">
   
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/LOGO.png" width="500" alt="Logo">
-/*ghcgvjvgj*/
+
 
 </span>
 
@@ -26,8 +26,8 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 - Aún que la competencia intente imitarnos en cuanto a la app en un futuro, nosotros tendremos mejores condiciones que las actuales, ya que siempre pensamos en mejorar la calidad de la app para los guías y la experiencia de usuario para los turistas.Input Box
 
 <div style="text-align:center">
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PIN.png" width="100" alt="Pin">
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PIN-verde.png" width="100" alt="Pin">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/PIN.png" width="100" alt="Pin">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/PIN-verde.png" width="100" alt="Pin">
 </div>
 
 ## Datos
@@ -63,7 +63,7 @@ Permite recabar datos de la cantidad de guías por ciudad y guías/km, las rutas
 - Registro
 - La lista de los guías está ordenada por cercanía al usuario
 
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/trozo_de_mapa.png" width="500" alt="Pin">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/trozo_de_mapa.png" width="500" alt="Pin">
 
 ## Funcionalidades Umbrella Tours: Guide
 - Relleno de datos de tu ruta (asistentes y cupo máx, lugares visitados, idiomas, tipo de ruta, horario)

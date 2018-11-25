@@ -14,10 +14,10 @@ https://view.genial.ly/5bfa5fde4e26e101a8f85214/presentacion-hackathon
 
 https://www.youtube.com/embed/O8CcFV14y7c
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/O8CcFV14y7c)
+[![Watch the video](https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/final.png)](https://www.youtube.com/embed/O8CcFV14y7c)
 
 
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/Cartel/final.png" width="500" alt="Logo">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/Cartel/multitecUA.png" width="500" alt="Logo">
 
 
 </span>

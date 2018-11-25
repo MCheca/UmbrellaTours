@@ -30,6 +30,7 @@ Aplicación destinada a facilitar la labor de los guías que se dedican a los de
 <div style="text-align:center">
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/PIN.png" width="100" alt="Pin">
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/PIN-verde.png" width="100" alt="Pin">
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/amarillo.png" width="100" alt="Pin">
 </div>
 
 ## Datos

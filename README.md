@@ -12,9 +12,12 @@ https://view.genial.ly/5bfa5fde4e26e101a8f85214/presentacion-hackathon
 
 ## Video de demostracion:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O8CcFV14y7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/O8CcFV14y7c
 
-<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/LOGO.png" width="500" alt="Logo">
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/O8CcFV14y7c)
+
+
+<img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/Cartel/final.png" width="500" alt="Logo">
 
 
 </span>

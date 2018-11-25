@@ -2,7 +2,14 @@
 
 Aplicación destinada a facilitar la labor de los guías que se dedican a los denominados "Free Tours"
 <span style="display:block;text-align:center">
-  
+
+## Demostracion Online:
+https://www.justinmind.com/usernote/tests/37941135/37953373/37953375/index.html#/screens/b68c4cf8-c89e-4605-92c2-a8376e999810
+
+## Presentacion:
+
+https://view.genial.ly/5bfa5fde4e26e101a8f85214/presentacion-hackathon
+
 <img src="https://github.com/MCheca/UmbrellaTours/blob/master/Recursos%20gr%C3%A1ficos/PNG/LOGO.png" width="500" alt="Logo">
 
 
